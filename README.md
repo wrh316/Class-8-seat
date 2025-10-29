@@ -1472,14 +1472,14 @@ This system ensures the randomness and fairness of seat allocation.
                     <i class="fas fa-male"></i>
                 </div>
                 <h3 id="boyCountText">Boy Count</h3>
-                <div class="number">33</div>
+                <div class="number">31</div>
             </div>
             <div class="stat-card stat-girl">
                 <div class="stat-icon">
                     <i class="fas fa-female"></i>
                 </div>
                 <h3 id="girlCountText">Girl Count</h3>
-                <div class="number">21</div>
+                <div class="number">23</div>
             </div>
             <div class="stat-card stat-total">
                 <div class="stat-icon">
@@ -1575,7 +1575,7 @@ This system ensures the randomness and fairness of seat allocation.
                 
                 // 页脚
                 footerText: "© 2025 Class 8's Seat Random Number Program | Author by @wrh316 | Website",
-                versionInfoText: "Website Versions，C++ Versions：https://note.ms/class8seat",
+                versionInfoText: "Website Versions，C++ Versions：Nullptr",
                 versionText: "Version 3.16.7 | Last Update: 2025.10.1",
                 
                 // 初始输出文本
@@ -1648,7 +1648,7 @@ This system ensures the randomness and fairness of seat allocation.
         // 学生名单和性别判断
         const boys = [
             "丁泓楷", "王民乐", "王屹骁", "王泽源", "朱燊辰", "华文轩", "刘彦浩", "江俊辰", "许锦封", 
-            "孙沈雨辰", "李石增", "李至言", "李思齐", "李彦君", "吴智强", "何雨轩", "何旻鸿", "张书豪", 
+            "孙沈雨辰", "李石增", "李至言", "李思齐", "李彦君", "吴智强", "何旻鸿", "张书豪", 
             "张泽川", "张哲铭", "张博洋", "张瀚升", "陈立钧", "季童洋", "周子成", "周子豪", "姜逸帆", 
             "娄涵睿", "常益硕", "蒋博研", "韩雪豹", "薛靖轩", "戴苏隽丰"
         ];
@@ -1656,7 +1656,7 @@ This system ensures the randomness and fairness of seat allocation.
         const girls = [
             "丁雨晨", "马悦杨", "王艺菲", "王馨鑫", "朱雨砚", "闫梓涵", "孙嫣翎", "杨颜溪", "吴星妍", 
             "宋若满", "张沛绫", "张梓桐", "陈春好", "陈朔菡", "陈盛蕊", "姜歆颖", "徐榛彤", "郭雨辰", 
-            "彭欣然", "董若灵", "蒙朵拉"
+            "彭欣然", "董若灵", "蒙朵拉", "何雨轩"
         ];
         
         // 全局变量
