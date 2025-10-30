@@ -1576,7 +1576,7 @@ This system ensures the randomness and fairness of seat allocation.
                 // 页脚
                 footerText: "© 2025 Class 8's Seat Random Number Program | Author by @wrh316 | Website",
                 versionInfoText: "Website Versions，C++ Versions：Nullptr",
-                versionText: "Version 3.16.7 | Last Update: 2025.10.1",
+                versionText: "Version 1.0.0 | Last Update: 2025.10.30",
                 
                 // 初始输出文本
                 initialOutput: "Welcome to use the intelligent seat allocation system.\nClick the button above to start generating a random seating chart.\nThis system ensures the randomness and fairness of seat allocation."
@@ -1638,7 +1638,7 @@ This system ensures the randomness and fairness of seat allocation.
                 // 页脚
                 footerText: "© 2025 8班座位随机分配系统 | 作者：@wrh316 | 网站",
                 versionInfoText: "网页版本，C++版本：Nullptr",
-                versionText: "版本 3.16.7 | 最后更新：2025.10.18",
+                versionText: "版本 1.0.0 | 最后更新：2025.10.30",
                 
                 // 初始输出文本
                 initialOutput: "欢迎使用智能座位分配系统。\n点击上方按钮开始生成随机座位表。\n本系统确保座位分配的随机性和公平性。"
@@ -1649,14 +1649,14 @@ This system ensures the randomness and fairness of seat allocation.
         const boys = [
             "丁泓楷", "王民乐", "王屹骁", "王泽源", "朱燊辰", "华文轩", "刘彦浩", "江俊辰", "许锦封", 
             "孙沈雨辰", "李石增", "李至言", "李思齐", "李彦君", "吴智强", "何旻鸿", "张书豪", 
-            "张泽川", "张哲铭", "张博洋", "张瀚升", "陈立钧", "季童洋", "周子成", "周子豪", "姜逸帆", 
-            "娄涵睿", "常益硕", "蒋博研", "韩雪豹", "薛靖轩", "戴苏隽丰"
+            "张泽川", "张哲铭", "张博洋", "张瀚升", "陈立钧", "季童洋", "周子成", "周子豪", "姜逸帆",
+            "常益硕", "蒋博研", "韩雪豹", "薛靖轩", "戴苏隽丰"
         ];
         
         const girls = [
             "丁雨晨", "马悦杨", "王艺菲", "王馨鑫", "朱雨砚", "闫梓涵", "孙嫣翎", "杨颜溪", "吴星妍", 
             "宋若满", "张沛绫", "张梓桐", "陈春好", "陈朔菡", "陈盛蕊", "姜歆颖", "徐榛彤", "郭雨辰", 
-            "彭欣然", "董若灵", "蒙朵拉", "何雨轩"
+            "彭欣然", "董若灵", "蒙朵拉", "何雨轩", "娄涵睿"
         ];
         
         // 全局变量
